@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3jRjbQJzik//vwqk26J4q6Re7B9+i1EPOTInqifl0J87OV6Iy7HNUdu/3n2gdmhXVCVOi958kdRtX0QyhOMRfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Dll\\agilitypack_doviz\\agilitypack_doviz\\agilitypack_doviz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\htmlagilitypack\\1.11.45\\htmlagilitypack.1.11.45.nupkg.sha512"
+  ],
+  "logs": []
+}
